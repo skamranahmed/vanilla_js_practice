@@ -18,6 +18,10 @@
 
 [![Custom Video Player-1][custom-video-player-01]](https://github.com/skamranahmed/vanilla_js_practice/raw/main/images/03-custom-video-player/1.png)
 
+## 4. Exchange Rate Calculator
+
+[![Exchange Rate Calculator-1][exchange-rate-calculator-01]](https://github.com/skamranahmed/vanilla_js_practice/raw/main/images/04-exchange-rate-calculator/1.png)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [form-validator-screenshot-01]: images/01-form-validator/1.png
@@ -27,3 +31,4 @@
 [movie-seat-booking-02]: images/02-movie-seat-booking/2.png
 [movie-seat-booking-03]: images/02-movie-seat-booking/3.png
 [custom-video-player-01]: images/03-custom-video-player/1.png
+[exchange-rate-calculator-01]: images/04-exchange-rate-calculator/1.png
