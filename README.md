@@ -20,6 +20,8 @@
 
 ## 4. Exchange Rate Calculator
 
+### (Use of fetch)
+
 [![Exchange Rate Calculator-1][exchange-rate-calculator-01]](https://github.com/skamranahmed/vanilla_js_practice/raw/main/images/04-exchange-rate-calculator/1.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
