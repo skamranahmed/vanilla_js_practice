@@ -1,4 +1,4 @@
-# Vanilla JS Practice Projects
+# VanillaJS Practice Projects
 
 ## 1. Form Validator
 
